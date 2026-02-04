@@ -1,0 +1,204 @@
+dni_pasaporte,nombre_completo,edad,pais,email
+20444555k,Nicolas Melphi,28,Argentina,nicomelphi@example.com
+PA9988777,Elena Smith,36,USA,elena.s@example.com
+181234567,Francisco Pérez,42,Chile,f_perez@example.com
+CLI-1000,Cliente 0,49,Japon,Cliente0+@example.com
+CLI-1001,Cliente 1,51,Belgica,Cliente1+@example.com
+CLI-1002,Cliente 2,44,Reino Unido,Cliente2+@example.com
+CLI-1003,Cliente 3,68,Francia,Cliente3+@example.com
+CLI-1004,Cliente 4,62,Alemania,Cliente4+@example.com
+CLI-1005,Cliente 5,51,España,Cliente5+@example.com
+CLI-1006,Cliente 6,56,Suiza,Cliente6+@example.com
+CLI-1007,Cliente 7,58,España,Cliente7+@example.com
+CLI-1008,Cliente 8,56,Belgica,Cliente8+@example.com
+CLI-1009,Cliente 9,41,Alemania,Cliente9+@example.com
+CLI-1010,Cliente 10,79,Suiza,Cliente10+@example.com
+CLI-1011,Cliente 11,66,Suiza,Cliente11+@example.com
+CLI-1012,Cliente 12,60,Canada,Cliente12+@example.com
+CLI-1013,Cliente 13,56,Suiza,Cliente13+@example.com
+CLI-1014,Cliente 14,75,Suiza,Cliente14+@example.com
+CLI-1015,Cliente 15,48,España,Cliente15+@example.com
+CLI-1016,Cliente 16,43,Canada,Cliente16+@example.com
+CLI-1017,Cliente 17,55,Belgica,Cliente17+@example.com
+CLI-1018,Cliente 18,64,Francia,Cliente18+@example.com
+CLI-1019,Cliente 19,79,Canada,Cliente19+@example.com
+CLI-1020,Cliente 20,75,Canada,Cliente20+@example.com
+CLI-1021,Cliente 21,45,Suiza,Cliente21+@example.com
+CLI-1022,Cliente 22,43,Reino Unido,Cliente22+@example.com
+CLI-1023,Cliente 23,60,Canada,Cliente23+@example.com
+CLI-1024,Cliente 24,73,España,Cliente24+@example.com
+CLI-1025,Cliente 25,49,España,Cliente25+@example.com
+CLI-1026,Cliente 26,70,Belgica,Cliente26+@example.com
+CLI-1027,Cliente 27,51,Francia,Cliente27+@example.com
+CLI-1028,Cliente 28,62,España,Cliente28+@example.com
+CLI-1029,Cliente 29,58,España,Cliente29+@example.com
+CLI-1030,Cliente 30,69,Alemania,Cliente30+@example.com
+CLI-1031,Cliente 31,56,Belgica,Cliente31+@example.com
+CLI-1032,Cliente 32,59,Japon,Cliente32+@example.com
+CLI-1033,Cliente 33,64,España,Cliente33+@example.com
+CLI-1034,Cliente 34,55,Francia,Cliente34+@example.com
+CLI-1035,Cliente 35,55,Canada,Cliente35+@example.com
+CLI-1036,Cliente 36,50,Japon,Cliente36+@example.com
+CLI-1037,Cliente 37,55,Japon,Cliente37+@example.com
+CLI-1038,Cliente 38,52,Alemania,Cliente38+@example.com
+CLI-1039,Cliente 39,62,Canada,Cliente39+@example.com
+CLI-1040,Cliente 40,45,Reino Unido,Cliente40+@example.com
+CLI-1041,Cliente 41,67,Belgica,Cliente41+@example.com
+CLI-1042,Cliente 42,48,Francia,Cliente42+@example.com
+CLI-1043,Cliente 43,73,Francia,Cliente43+@example.com
+CLI-1044,Cliente 44,55,Canada,Cliente44+@example.com
+CLI-1045,Cliente 45,52,España,Cliente45+@example.com
+CLI-1046,Cliente 46,60,Francia,Cliente46+@example.com
+CLI-1047,Cliente 47,61,Canada,Cliente47+@example.com
+CLI-1048,Cliente 48,50,Suiza,Cliente48+@example.com
+CLI-1049,Cliente 49,77,Reino Unido,Cliente49+@example.com
+CLI-1050,Cliente 50,79,Belgica,Cliente50+@example.com
+CLI-1051,Cliente 51,66,Canada,Cliente51+@example.com
+CLI-1052,Cliente 52,76,Francia,Cliente52+@example.com
+CLI-1053,Cliente 53,73,Canada,Cliente53+@example.com
+CLI-1054,Cliente 54,43,Suiza,Cliente54+@example.com
+CLI-1055,Cliente 55,80,Suiza,Cliente55+@example.com
+CLI-1056,Cliente 56,52,España,Cliente56+@example.com
+CLI-1057,Cliente 57,65,Canada,Cliente57+@example.com
+CLI-1058,Cliente 58,76,Japon,Cliente58+@example.com
+CLI-1059,Cliente 59,68,Alemania,Cliente59+@example.com
+CLI-1060,Cliente 60,74,Alemania,Cliente60+@example.com
+CLI-1061,Cliente 61,41,Alemania,Cliente61+@example.com
+CLI-1062,Cliente 62,70,Japon,Cliente62+@example.com
+CLI-1063,Cliente 63,69,Belgica,Cliente63+@example.com
+CLI-1064,Cliente 64,44,Canada,Cliente64+@example.com
+CLI-1065,Cliente 65,50,Francia,Cliente65+@example.com
+CLI-1066,Cliente 66,67,Alemania,Cliente66+@example.com
+CLI-1067,Cliente 67,50,Suiza,Cliente67+@example.com
+CLI-1068,Cliente 68,45,Suiza,Cliente68+@example.com
+CLI-1069,Cliente 69,52,Francia,Cliente69+@example.com
+CLI-1070,Cliente 70,52,Suiza,Cliente70+@example.com
+CLI-1071,Cliente 71,73,Reino Unido,Cliente71+@example.com
+CLI-1072,Cliente 72,57,Suiza,Cliente72+@example.com
+CLI-1073,Cliente 73,61,Belgica,Cliente73+@example.com
+CLI-1074,Cliente 74,58,Francia,Cliente74+@example.com
+CLI-1075,Cliente 75,60,Alemania,Cliente75+@example.com
+CLI-1076,Cliente 76,64,España,Cliente76+@example.com
+CLI-1077,Cliente 77,47,Alemania,Cliente77+@example.com
+CLI-1078,Cliente 78,66,Suiza,Cliente78+@example.com
+CLI-1079,Cliente 79,79,Francia,Cliente79+@example.com
+CLI-1080,Cliente 80,75,Alemania,Cliente80+@example.com
+CLI-1081,Cliente 81,75,Belgica,Cliente81+@example.com
+CLI-1082,Cliente 82,71,Reino Unido,Cliente82+@example.com
+CLI-1083,Cliente 83,62,España,Cliente83+@example.com
+CLI-1084,Cliente 84,69,Japon,Cliente84+@example.com
+CLI-1085,Cliente 85,65,Reino Unido,Cliente85+@example.com
+CLI-1086,Cliente 86,55,Japon,Cliente86+@example.com
+CLI-1087,Cliente 87,62,España,Cliente87+@example.com
+CLI-1088,Cliente 88,70,Belgica,Cliente88+@example.com
+CLI-1089,Cliente 89,50,Reino Unido,Cliente89+@example.com
+CLI-1090,Cliente 90,59,Suiza,Cliente90+@example.com
+CLI-1091,Cliente 91,66,Belgica,Cliente91+@example.com
+CLI-1092,Cliente 92,78,Suiza,Cliente92+@example.com
+CLI-1093,Cliente 93,79,Canada,Cliente93+@example.com
+CLI-1094,Cliente 94,51,España,Cliente94+@example.com
+CLI-1095,Cliente 95,61,Alemania,Cliente95+@example.com
+CLI-1096,Cliente 96,50,Suiza,Cliente96+@example.com
+CLI-1097,Cliente 97,43,Francia,Cliente97+@example.com
+CLI-1098,Cliente 98,41,España,Cliente98+@example.com
+CLI-1099,Cliente 99,60,Francia,Cliente99+@example.com
+CLI-1100,Cliente 100,51,España,Cliente100+@example.com
+CLI-1101,Cliente 101,57,Canada,Cliente101+@example.com
+CLI-1102,Cliente 102,51,Suiza,Cliente102+@example.com
+CLI-1103,Cliente 103,42,España,Cliente103+@example.com
+CLI-1104,Cliente 104,69,Francia,Cliente104+@example.com
+CLI-1105,Cliente 105,50,España,Cliente105+@example.com
+CLI-1106,Cliente 106,55,Suiza,Cliente106+@example.com
+CLI-1107,Cliente 107,70,Canada,Cliente107+@example.com
+CLI-1108,Cliente 108,80,Japon,Cliente108+@example.com
+CLI-1109,Cliente 109,75,Francia,Cliente109+@example.com
+CLI-1110,Cliente 110,65,Belgica,Cliente110+@example.com
+CLI-1111,Cliente 111,65,Alemania,Cliente111+@example.com
+CLI-1112,Cliente 112,71,Belgica,Cliente112+@example.com
+CLI-1113,Cliente 113,53,Alemania,Cliente113+@example.com
+CLI-1114,Cliente 114,47,Japon,Cliente114+@example.com
+CLI-1115,Cliente 115,65,Canada,Cliente115+@example.com
+CLI-1116,Cliente 116,66,Reino Unido,Cliente116+@example.com
+CLI-1117,Cliente 117,74,Alemania,Cliente117+@example.com
+CLI-1118,Cliente 118,75,Belgica,Cliente118+@example.com
+CLI-1119,Cliente 119,57,Alemania,Cliente119+@example.com
+CLI-1120,Cliente 120,41,España,Cliente120+@example.com
+CLI-1121,Cliente 121,68,Alemania,Cliente121+@example.com
+CLI-1122,Cliente 122,54,Suiza,Cliente122+@example.com
+CLI-1123,Cliente 123,40,Francia,Cliente123+@example.com
+CLI-1124,Cliente 124,74,Japon,Cliente124+@example.com
+CLI-1125,Cliente 125,62,Suiza,Cliente125+@example.com
+CLI-1126,Cliente 126,55,Suiza,Cliente126+@example.com
+CLI-1127,Cliente 127,78,Belgica,Cliente127+@example.com
+CLI-1128,Cliente 128,55,Japon,Cliente128+@example.com
+CLI-1129,Cliente 129,59,Alemania,Cliente129+@example.com
+CLI-1130,Cliente 130,67,Reino Unido,Cliente130+@example.com
+CLI-1131,Cliente 131,49,Alemania,Cliente131+@example.com
+CLI-1132,Cliente 132,71,Alemania,Cliente132+@example.com
+CLI-1133,Cliente 133,71,Francia,Cliente133+@example.com
+CLI-1134,Cliente 134,79,Francia,Cliente134+@example.com
+CLI-1135,Cliente 135,77,Reino Unido,Cliente135+@example.com
+CLI-1136,Cliente 136,71,Japon,Cliente136+@example.com
+CLI-1137,Cliente 137,62,Belgica,Cliente137+@example.com
+CLI-1138,Cliente 138,52,Japon,Cliente138+@example.com
+CLI-1139,Cliente 139,49,Japon,Cliente139+@example.com
+CLI-1140,Cliente 140,79,Canada,Cliente140+@example.com
+CLI-1141,Cliente 141,42,Belgica,Cliente141+@example.com
+CLI-1142,Cliente 142,59,Reino Unido,Cliente142+@example.com
+CLI-1143,Cliente 143,54,Suiza,Cliente143+@example.com
+CLI-1144,Cliente 144,72,Francia,Cliente144+@example.com
+CLI-1145,Cliente 145,42,España,Cliente145+@example.com
+CLI-1146,Cliente 146,57,Reino Unido,Cliente146+@example.com
+CLI-1147,Cliente 147,44,Alemania,Cliente147+@example.com
+CLI-1148,Cliente 148,58,España,Cliente148+@example.com
+CLI-1149,Cliente 149,78,Canada,Cliente149+@example.com
+CLI-1150,Cliente 150,61,Belgica,Cliente150+@example.com
+CLI-1151,Cliente 151,56,Francia,Cliente151+@example.com
+CLI-1152,Cliente 152,44,Japon,Cliente152+@example.com
+CLI-1153,Cliente 153,74,Japon,Cliente153+@example.com
+CLI-1154,Cliente 154,57,España,Cliente154+@example.com
+CLI-1155,Cliente 155,42,Suiza,Cliente155+@example.com
+CLI-1156,Cliente 156,71,Francia,Cliente156+@example.com
+CLI-1157,Cliente 157,76,Reino Unido,Cliente157+@example.com
+CLI-1158,Cliente 158,58,Suiza,Cliente158+@example.com
+CLI-1159,Cliente 159,61,Belgica,Cliente159+@example.com
+CLI-1160,Cliente 160,59,España,Cliente160+@example.com
+CLI-1161,Cliente 161,67,Japon,Cliente161+@example.com
+CLI-1162,Cliente 162,62,Alemania,Cliente162+@example.com
+CLI-1163,Cliente 163,72,Japon,Cliente163+@example.com
+CLI-1164,Cliente 164,47,Reino Unido,Cliente164+@example.com
+CLI-1165,Cliente 165,56,Francia,Cliente165+@example.com
+CLI-1166,Cliente 166,65,Suiza,Cliente166+@example.com
+CLI-1167,Cliente 167,79,Reino Unido,Cliente167+@example.com
+CLI-1168,Cliente 168,51,Suiza,Cliente168+@example.com
+CLI-1169,Cliente 169,67,Belgica,Cliente169+@example.com
+CLI-1170,Cliente 170,47,Japon,Cliente170+@example.com
+CLI-1171,Cliente 171,72,Reino Unido,Cliente171+@example.com
+CLI-1172,Cliente 172,45,España,Cliente172+@example.com
+CLI-1173,Cliente 173,55,Alemania,Cliente173+@example.com
+CLI-1174,Cliente 174,45,Belgica,Cliente174+@example.com
+CLI-1175,Cliente 175,42,España,Cliente175+@example.com
+CLI-1176,Cliente 176,64,Francia,Cliente176+@example.com
+CLI-1177,Cliente 177,57,Canada,Cliente177+@example.com
+CLI-1178,Cliente 178,73,Alemania,Cliente178+@example.com
+CLI-1179,Cliente 179,80,Alemania,Cliente179+@example.com
+CLI-1180,Cliente 180,57,Japon,Cliente180+@example.com
+CLI-1181,Cliente 181,59,Reino Unido,Cliente181+@example.com
+CLI-1182,Cliente 182,63,Japon,Cliente182+@example.com
+CLI-1183,Cliente 183,60,España,Cliente183+@example.com
+CLI-1184,Cliente 184,61,Francia,Cliente184+@example.com
+CLI-1185,Cliente 185,49,Francia,Cliente185+@example.com
+CLI-1186,Cliente 186,41,Japon,Cliente186+@example.com
+CLI-1187,Cliente 187,52,Suiza,Cliente187+@example.com
+CLI-1188,Cliente 188,80,Francia,Cliente188+@example.com
+CLI-1189,Cliente 189,79,Francia,Cliente189+@example.com
+CLI-1190,Cliente 190,61,Japon,Cliente190+@example.com
+CLI-1191,Cliente 191,41,Suiza,Cliente191+@example.com
+CLI-1192,Cliente 192,52,Alemania,Cliente192+@example.com
+CLI-1193,Cliente 193,59,Reino Unido,Cliente193+@example.com
+CLI-1194,Cliente 194,56,Suiza,Cliente194+@example.com
+CLI-1195,Cliente 195,77,Francia,Cliente195+@example.com
+CLI-1196,Cliente 196,53,Canada,Cliente196+@example.com
+CLI-1197,Cliente 197,43,Suiza,Cliente197+@example.com
+CLI-1198,Cliente 198,52,Belgica,Cliente198+@example.com
+CLI-1199,Cliente 199,56,Francia,Cliente199+@example.com
