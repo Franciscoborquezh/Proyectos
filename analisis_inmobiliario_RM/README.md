@@ -19,7 +19,7 @@ El procesamiento se dividió en tres etapas críticas documentadas en el noteboo
 3. **Exportación:** Generación del archivo final `df_propiedades.csv`.
 
 ## 📈 Visualización
-![Dashboard en acción](Demo_dashboard.GIF)
+<p align="center"><img src="Demo_dashboard.GIF" width="850" alt="Demo Dashboard"></p>
 
 ## 📊 Hallazgos y Resultados
 A través del dashboard de Power BI se obtuvieron los siguientes insights:
