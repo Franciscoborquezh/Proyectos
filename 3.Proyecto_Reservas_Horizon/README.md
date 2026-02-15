@@ -2,9 +2,6 @@
 
 Análisis operativo y comercial de una operadora turística en la Patagonia, integrando Python para la ingeniería de datos y Power BI para la visualización estratégica.
 
-### Demo Interactiva
-![Dashboard en acción](Demo_interactiva.gif)
-
 ## 🛠️ El Desafío Técnico El proyecto consistió en transformar datos brutos de operaciones en un dashboard interactivo. Los principales hitos fueron:
 
 **Ingeniería de Datos:** Generación de un entorno de pruebas con 200 clientes únicos y 500+ registros de ventas usando Python y SQLite.
@@ -20,6 +17,8 @@ Análisis operativo y comercial de una operadora turística en la Patagonia, int
 **Tendencia Temporal:** Evolución de ventas para identificar estacionalidad.
 
 **Filtros Dinámicos:** Segmentación por tipo de tour y periodo de tiempo.
+
+![Dashboard en acción](Demo_interactiva.gif)
 
 ## 🧰 Tecnologías Usadas
 
