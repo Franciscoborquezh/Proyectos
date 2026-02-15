@@ -39,6 +39,7 @@ El dashboard final fue diseñado bajo una estética profesional de retail, enfoc
 * **KPIs Estratégicos:** Visualización clara de Ticket Promedio, Volumen de Ventas y Retención de Clientes.
 * **Ayuda Contextual:** Implementación de *tooltips* explicativos para facilitar la interpretación de métricas a stakeholders no técnicos.
 * **Higiene del Modelo:** Ocultamiento de cálculos técnicos para un entorno de autoservicio de datos limpio.
+
 ![Dashboard en acción](demo_dashboard.gif)
 ---
 

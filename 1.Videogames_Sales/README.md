@@ -36,3 +36,4 @@ El análisis se estructuró siguiendo las seis fases de la metodología de Googl
 
 ## 💡 Conclusiones Estratégicas
 * **Personalización Regional:** Propuesta de campañas de marketing específicas para Japón basadas en sus preferencias de género únicas
+* **Eficiencia de Inventario:** Recomendaciones para la rotación de títulos Clase C y priorización de stock para títulos Clase A.
