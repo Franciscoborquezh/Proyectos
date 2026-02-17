@@ -1,19 +1,18 @@
-### ¡Hola! Soy Francisco, Data Analyst 📈
+### ¡Hello! My name is Francisco, I'm a Data Analyst 📈
 
-Me dedico a descifrar los **datos** para encontrar insights que ayuden a una informada **toma de decisiones**. Mi fortalezas incluyen el **pensamiento crítico**, **resolución de problemas** y mi orientación a los **detalles**.
-
----
-
-**🛠️ Habilidades Clave:**
-
-* **Lenguajes:** SQL, R, Python (Pandas, NumPy)
-* **Visualización:** Power BI, Microsoft Excel
-* **Análisis:** Creación de dashboards, storytelling con datos
+#### I'm dedicated to decoding **data** to find insights that lead to informed **decision-making**. My key strengths are **critical thinking**, **problem-solving**, and a meticulous **attention to detail**.
 
 ---
+**🛠️ Core Competencies:**
 
-**🎯 Mi Meta:**
+* **Languages:** SQL, R, Python (Pandas, NumPy)
 
-Estoy en búsqueda de un rol como **Data Analyst Junior** o **Business Intelligence Analyst** para seguir perfeccionando mis habilidades y contribuir al éxito de un equipo.
+* **Visualization:** Power BI, Microsoft Excel
 
-¡Conectemos y colaboremos! 📧
+* **Analysis:** Dashboard design, data storytelling
+---
+**🎯 My Objective:**
+
+I'm looking for a **Junior Data Analyst** or **Business Intelligence Analyst** position to further develop my abilities and help a team achieve its goals.
+
+I'd love to connect and work together! 📧
